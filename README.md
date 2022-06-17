@@ -1,5 +1,5 @@
 - 👋 Meu nome é Matheus Cândido
 - 👀 Estou interessado em ser um desenvolvedor fullstack em java e javascript
-- 🌱 Atualmente estou aprendendo Python e lógica de programação além de tecnologias de rede em geral
+- 🌱 Atualmente estou estudando Python e lógica de programação além de tecnologias de rede em geral
 - 💞️ Vou te ajudar com projetos que envolvam automação e back-end
 - 📫 Você pode me chamar no instagram @m4theuscandido
